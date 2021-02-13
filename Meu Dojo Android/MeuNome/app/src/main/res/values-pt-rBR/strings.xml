@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Nome</string>
+    <string name="resposta">Resposta</string>
+    <string name="pronto">Pronto</string>
+    <string name="nome">Nome</string>
+    <string name="finalizando">"Prazer em te conhecer "</string>
+</resources>
